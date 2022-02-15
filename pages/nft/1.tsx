@@ -24,7 +24,7 @@ const Home: NextPage = () => {
                 layout='responsive'/>
             <h2>Details</h2>
             <p>
-                $99.997.00 Worth Chicken Nugget is 3D graphic art highly inspired by the auction 'McDonald's Among Us shaped Nugget from BTS Meal'.
+                $99.997.00 Worth Chicken Nugget is 3D graphic art highly inspired by the auction &apos;McDonald&apos;s Among Us shaped Nugget from BTS Meal&apos;.
             </p>
             <Button variant="outlined" href={"https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/16110191377018023060590833410106289536004523516268007580683628882489207947265/"}>Auction Now</Button>
         </div>
